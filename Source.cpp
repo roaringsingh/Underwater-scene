@@ -1,4 +1,4 @@
-//#include "./freeglut-3.2.1/include/GL/freeglut.h"
+//#include "./freeglut-3.2.1/include/GL/freeglut.h" //Use for replit
 #include <GL/glut.h>
 #include <windows.h>
 #include <math.h>
